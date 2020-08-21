@@ -1,0 +1,14 @@
+.box{
+    box-shadow: 3px 3px #dbdbdb;
+    margin: 20px;
+}
+#wrapper{
+    overflow:hidden;
+}
+#wrapper:after
+{
+content:".";
+display:block;
+clear:both;
+visibility:hidden;
+}

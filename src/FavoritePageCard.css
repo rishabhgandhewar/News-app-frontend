@@ -1,0 +1,124 @@
+.box{
+    margin: 3%;
+    cursor: pointer;
+    box-shadow: 1px 3px 5px 4px #dbdbdb;
+}
+.cardImage1{
+    padding-top: 15px;
+    padding-bottom: 30px; 
+    height: 200px;
+}
+.header{
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: -5px;
+    margin-left: 5px;
+}
+.center-header{
+    font-size: 28px;
+    font-weight: 500;
+    margin-left: 20px;
+    text-align: center;
+}
+.toastColor{
+    color: black;
+}
+.WORLD{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color:#7f5cd6; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.BUSINESS{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #528dcc; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    color: white;
+    float:right;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.POLITICS{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #4f8c75; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.SPORTS{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #f0c569; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.TECHNOLOGY{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #b8d667; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.OTHER{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #6e6d6b; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.NYTIMES{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #dedfe3; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.GUARDIAN{
+    font-size: 12px; 
+    font-weight: bold;
+    background-color: #101636; 
+    text-align: center;
+    border-radius: 5px;
+    clear:both;
+    float:right;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.share{
+    cursor: pointer;
+}
